@@ -47,6 +47,8 @@
 
 [Java8InAction](https://github.com/java8/Java8InAction)
 
+[java8-tutorial](https://github.com/winterbe/java8-tutorial)
+
 [30 seconds to collect useful Java 8 snippet.](https://github.com/biezhi/30-seconds-of-java8)
 
 ## Spring Cloud
@@ -95,6 +97,11 @@
 
 [JWT](https://github.com/auth0/java-jwt)
 
+## 项目
+
+[微信小程序开源项目库汇总](https://github.com/opendigg/awesome-github-wechat-weapp)
+[一个用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台](https://github.com/b3log/symphony)
+
 ## 中间件
 
 [MPush开源实时消息推送系统 ](https://github.com/mpusher/mpush)
@@ -116,6 +123,8 @@
 [程序员应该访问的最佳网站中文版](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 
 [关于面试/谈Offer/程序员职场生涯等](https://github.com/lietoumai/awesome-offer)
+
+[程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
 
 ## 前端
 
@@ -143,5 +152,5 @@
 
 
 
-### 持续更新中......
+### 持续更新......
 
